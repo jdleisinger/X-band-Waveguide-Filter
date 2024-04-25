@@ -1,8 +1,10 @@
 # X-band-Waveguide-Filter
 
 # Amplitude and Phase Responses
-![EE515freqresponse_xband](https://github.com/jdleisinger/X-band-Waveguide-Filter/assets/167725183/e7d02f66-eb40-43bb-87f8-0730189c986c)
 
-![EE515freqresponse_fc](https://github.com/jdleisinger/X-band-Waveguide-Filter/assets/167725183/32cd83af-c33b-458d-956e-01540d582a44)
+![EE515freqresponse_xband](https://github.com/jdleisinger/X-band-Waveguide-Filter/assets/167725183/86047c34-eee3-441d-89c2-9e1224a51b80)
 
-![EE515freqresponse_close](https://github.com/jdleisinger/X-band-Waveguide-Filter/assets/167725183/26ac0408-87d4-43cc-ba03-45dbfeef563a)
+![EE515freqresponse_fc](https://github.com/jdleisinger/X-band-Waveguide-Filter/assets/167725183/4ad60a2c-e66d-4707-9937-79db65f4fd0e)
+
+![EE515freqresponse_close](https://github.com/jdleisinger/X-band-Waveguide-Filter/assets/167725183/5dfeb65d-ade4-4a48-b33c-d1a2229a2a34)
+
